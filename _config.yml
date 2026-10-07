@@ -3,7 +3,7 @@ booktitle: Proceedings of the 6th Symposium on Advances in Approximate Bayesian 
 shortname: AABI
 year: '2024'
 volume: '253'
-start: &1 2024-07-21
+start: 2024-07-21
 end: 2024-07-21
 published: 2024-07-29
 layout: proceedings
@@ -68,7 +68,7 @@ conference:
   url: https://approximateinference.org
   location: Vienna, Austria
   dates:
-  - *1
+  - 2024-07-21
 analytics:
   google:
     tracking_id: UA-92432422-1
